@@ -1,0 +1,3 @@
+site
+docs/*.md
+mkdocs.yml
